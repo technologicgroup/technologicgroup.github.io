@@ -1,4 +1,4 @@
-## cluster-boost library for Ignite by TechnologicGroup, LLS
+## cluster-boost library for Ignite
 
-### [Description](https://technologicgroup.github.io/cluster-boost)
-### [Examples](https://technologicgroup.github.io/cluster-boost-examples)
+### [cluster-boost description](https://technologicgroup.github.io/cluster-boost)
+### [cluster-boost examples](https://technologicgroup.github.io/cluster-boost-examples)
